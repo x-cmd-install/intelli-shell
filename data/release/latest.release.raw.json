@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12084595,
       "digest": "sha256:f7f010d22c1c4ad54658fafc57cb7204b396e816a8ef27b3ab9571e2ac0aa694",
-      "download_count": 76,
+      "download_count": 77,
       "created_at": "2026-06-26T10:14:10Z",
       "updated_at": "2026-06-26T10:14:11Z",
       "browser_download_url": "https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8579553,
       "digest": "sha256:69f80a1c35fa5a4f2b6ea2435cf85831050e417127507536602896ba8f840b96",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-06-26T10:16:19Z",
       "updated_at": "2026-06-26T10:16:20Z",
       "browser_download_url": "https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11933393,
       "digest": "sha256:1cfdbe004f52f06bde0b10bf2eecab0f01bbefa442b827d847a3e2da6b627273",
-      "download_count": 263,
+      "download_count": 266,
       "created_at": "2026-06-26T10:12:11Z",
       "updated_at": "2026-06-26T10:12:12Z",
       "browser_download_url": "https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12096599,
       "digest": "sha256:b5fac76d6f4b81fd2ff155ab0bf83ed7e571bf6e87d916d4dea4b1e02979dfd4",
-      "download_count": 78,
+      "download_count": 79,
       "created_at": "2026-06-26T10:12:10Z",
       "updated_at": "2026-06-26T10:12:11Z",
       "browser_download_url": "https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-unknown-linux-musl.tar.gz"

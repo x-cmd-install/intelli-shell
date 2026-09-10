@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.4.5"
   latestRelease: "v3.4.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:56:44Z
+  collectedAt: 2026-09-10T20:48:33Z
 timeline:
   created: 2023-01-20
   lastCommit: 2026-07-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-26
   lastPrerelease: 
 popularity:
-  star: 1284
+  star: 1286
   watcher: 3
   fork: 23
   release: 34
@@ -88,7 +88,7 @@ total:
   commit: 159
 ---
 path: /home/runner/.x-repo/github.com/lasantosr/intelli-shell
-collectedAt: 2026-09-10T04:56:47Z
+collectedAt: 2026-09-10T20:48:35Z
 loc:
   Rust:
     code: 21496
