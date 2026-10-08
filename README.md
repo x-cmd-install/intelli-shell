@@ -14,15 +14,15 @@ x install intelli-shell
 
 ## Code insight
 
-Total: **23,150** lines of code across **106** files in the top 5 languages.
+Total: **23,506** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,663 | 1,280 | 2,575 | 93 |
+| Rust | 21,999 | 1,280 | 2,611 | 93 |
 | Sh | 513 | 123 | 102 | 3 |
-| Toml | 410 | 202 | 43 | 7 |
-| PowerShell | 324 | 80 | 58 | 2 |
-| Fish | 112 | 30 | 25 | 1 |
+| Toml | 415 | 214 | 45 | 7 |
+| PowerShell | 328 | 79 | 58 | 2 |
+| Fish | 123 | 29 | 25 | 1 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **23,150** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.4.5` (2026-06-26)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,296 · **Forks**: 25 · **Open issues**: 50 · **Contributors**: 9
+- **Stars**: 1,297 · **Forks**: 25 · **Open issues**: 50 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 18 · **Open PRs**: 5 · **Closed issues**: 44 · **Open issues**: 6 · **Commits**: 166
+- **Releases**: 34 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 6 · **Commits**: 170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 3 | 5 | 0 | 0 | 7 |
-| last60d | 2026-08-08 | 0 | 3 | 5 | 0 | 1 | 7 |
-| 90d | 2026-07-09 | 0 | 4 | 5 | 2 | 2 | 8 |
-| last180d | 2026-04-10 | 5 | 10 | 5 | 3 | 2 | 26 |
-| 360d | 2025-10-12 | 8 | 14 | 5 | 18 | 4 | 49 |
-| last720d | 2024-10-17 | 23 | 17 | 5 | 32 | 6 | 116 |
+| 30d | 2026-09-08 | 0 | 7 | 1 | 0 | 0 | 11 |
+| last60d | 2026-08-09 | 0 | 7 | 1 | 0 | 1 | 11 |
+| 90d | 2026-07-10 | 0 | 8 | 1 | 2 | 2 | 12 |
+| last180d | 2026-04-11 | 5 | 14 | 1 | 3 | 2 | 30 |
+| 360d | 2025-10-13 | 8 | 17 | 1 | 15 | 4 | 53 |
+| last720d | 2024-10-18 | 23 | 21 | 1 | 32 | 6 | 120 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for intelli-shell lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:08:38Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:27:44Z._
