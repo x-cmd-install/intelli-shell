@@ -14,11 +14,11 @@ x install intelli-shell
 
 ## 代码洞察
 
-合计: **23,506** 行代码（覆盖前 5 种语言、共 **106** 个文件）。
+合计: **23,568** 行代码（覆盖前 5 种语言、共 **106** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 21,999 | 1,280 | 2,611 | 93 |
+| Rust | 22,061 | 1,280 | 2,616 | 93 |
 | Sh | 513 | 123 | 102 | 3 |
 | Toml | 415 | 214 | 45 | 7 |
 | PowerShell | 328 | 79 | 58 | 2 |
@@ -32,41 +32,41 @@ x install intelli-shell
 
 ## 发布
 
-- **最新版本**: `v3.4.5` (2026-06-26)
-- **最近提交**: 2026-10-07
+- **最新版本**: `v3.4.6` (2026-10-08)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 1,297 · **Fork**: 25 · **开放 issue**: 50 · **贡献者**: 9
+- **Star**: 1,297 · **Fork**: 24 · **开放 issue**: 50 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 22 · **开放 PR**: 1 · **已关闭 issue**: 44 · **开放 issue**: 6 · **提交数**: 170
+- **发布数**: 35 · **已合并 PR**: 16 · **开放 PR**: 0 · **已关闭 issue**: 44 · **开放 issue**: 6 · **提交数**: 172
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 7 | 1 | 0 | 0 | 11 |
-| last60d | 2026-08-09 | 0 | 7 | 1 | 0 | 1 | 11 |
-| 90d | 2026-07-10 | 0 | 8 | 1 | 2 | 2 | 12 |
-| last180d | 2026-04-11 | 5 | 14 | 1 | 3 | 2 | 30 |
-| 360d | 2025-10-13 | 8 | 17 | 1 | 15 | 4 | 53 |
-| last720d | 2024-10-18 | 23 | 21 | 1 | 32 | 6 | 120 |
+| 30d | 2026-09-09 | 1 | 4 | 0 | 0 | 0 | 6 |
+| last60d | 2026-08-10 | 1 | 4 | 0 | 0 | 1 | 6 |
+| 90d | 2026-07-11 | 1 | 5 | 0 | 2 | 2 | 7 |
+| last180d | 2026-04-12 | 6 | 11 | 0 | 3 | 2 | 25 |
+| 360d | 2025-10-14 | 9 | 14 | 0 | 14 | 4 | 48 |
+| last720d | 2024-10-19 | 24 | 18 | 0 | 32 | 6 | 122 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [intelli-shell-aarch64-apple-darwin.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-aarch64-apple-darwin.tar.gz) | 10.0 MiB | `native/darwin/arm64` |
-| [intelli-shell-aarch64-pc-windows-msvc.zip](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-aarch64-pc-windows-msvc.zip) | 7.8 MiB | `native/win/arm64` |
-| [intelli-shell-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-aarch64-unknown-linux-gnu.tar.gz) | 11.5 MiB | `native/linux/arm64/glibc` |
-| [intelli-shell-aarch64-unknown-linux-musl.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-aarch64-unknown-linux-musl.tar.gz) | 11.1 MiB | `native/linux/arm64/musl` |
-| [intelli-shell-x86_64-apple-darwin.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-apple-darwin.tar.gz) | 10.2 MiB | `native/darwin/x64` |
-| [intelli-shell-x86_64-pc-windows-msvc.zip](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-pc-windows-msvc.zip) | 8.2 MiB | `native/win/x64` |
-| [intelli-shell-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-unknown-linux-gnu.tar.gz) | 11.4 MiB | `native/linux/x64/glibc` |
-| [intelli-shell-x86_64-unknown-linux-musl.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.5/intelli-shell-x86_64-unknown-linux-musl.tar.gz) | 11.5 MiB | `native/linux/x64/musl` |
+| [intelli-shell-aarch64-apple-darwin.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-aarch64-apple-darwin.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
+| [intelli-shell-aarch64-pc-windows-msvc.zip](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-aarch64-pc-windows-msvc.zip) | 7.3 MiB | `native/win/arm64` |
+| [intelli-shell-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-aarch64-unknown-linux-gnu.tar.gz) | 11.0 MiB | `native/linux/arm64/glibc` |
+| [intelli-shell-aarch64-unknown-linux-musl.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-aarch64-unknown-linux-musl.tar.gz) | 10.6 MiB | `native/linux/arm64/musl` |
+| [intelli-shell-x86_64-apple-darwin.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
+| [intelli-shell-x86_64-pc-windows-msvc.zip](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-x86_64-pc-windows-msvc.zip) | 7.7 MiB | `native/win/x64` |
+| [intelli-shell-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-x86_64-unknown-linux-gnu.tar.gz) | 10.9 MiB | `native/linux/x64/glibc` |
+| [intelli-shell-x86_64-unknown-linux-musl.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.6/intelli-shell-x86_64-unknown-linux-musl.tar.gz) | 11.0 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ intelli-shell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T06:27:45Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T06:23:55Z._
