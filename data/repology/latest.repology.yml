@@ -1,7 +1,7 @@
 - repo: nix_unstable
   srcname: intelli-shell
   visiblename: intelli-shell
-  version: 3.4.6
+  version: 3.4.7
   origversion: null
   status: newest
   summary: Like IntelliSense, but for shells
@@ -34,7 +34,7 @@
 - repo: homebrew
   srcname: intelli-shell
   visiblename: intelli-shell
-  version: 3.4.6
+  version: 3.4.7
   origversion: null
   status: newest
   summary: Like IntelliSense, but for shells
