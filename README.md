@@ -48,12 +48,12 @@ Total: **23,895** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-06 | 2 | 11 | 0 | 0 | 0 | 17 |
-| 90d | 2026-08-07 | 2 | 11 | 0 | 0 | 1 | 17 |
-| last180d | 2026-05-09 | 7 | 18 | 0 | 4 | 1 | 36 |
-| 360d | 2025-11-10 | 10 | 21 | 0 | 9 | 3 | 51 |
-| last720d | 2024-11-15 | 25 | 25 | 0 | 33 | 5 | 126 |
+| 30d | 2026-10-07 | 2 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-07 | 2 | 11 | 0 | 0 | 0 | 17 |
+| 90d | 2026-08-08 | 2 | 11 | 0 | 0 | 1 | 17 |
+| last180d | 2026-05-10 | 7 | 18 | 0 | 4 | 1 | 36 |
+| 360d | 2025-11-11 | 10 | 21 | 0 | 9 | 3 | 51 |
+| last720d | 2024-11-16 | 25 | 25 | 0 | 33 | 5 | 126 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for intelli-shell lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:02:17Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:56:09Z._
