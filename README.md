@@ -14,11 +14,11 @@ x install intelli-shell
 
 ## Code insight
 
-Total: **23,895** lines of code across **106** files in the top 5 languages.
+Total: **23,899** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 22,362 | 1,280 | 2,663 | 93 |
+| Rust | 22,366 | 1,282 | 2,664 | 93 |
 | Sh | 535 | 125 | 107 | 3 |
 | Toml | 419 | 246 | 46 | 7 |
 | PowerShell | 328 | 79 | 58 | 2 |
@@ -33,7 +33,7 @@ Total: **23,895** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.4.7` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-07
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **23,895** lines of code across **106** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 45 · **Open issues**: 5 · **Commits**: 176
+- **Releases**: 36 · **Merged PRs**: 27 · **Open PRs**: 0 · **Closed issues**: 45 · **Open issues**: 5 · **Commits**: 177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 3 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-08 | 2 | 11 | 0 | 0 | 0 | 17 |
-| 90d | 2026-08-09 | 2 | 11 | 0 | 0 | 1 | 17 |
-| last180d | 2026-05-11 | 7 | 18 | 0 | 4 | 1 | 36 |
-| 360d | 2025-11-12 | 10 | 21 | 0 | 9 | 3 | 51 |
-| last720d | 2024-11-17 | 25 | 25 | 0 | 33 | 5 | 126 |
+| 30d | 2026-10-09 | 1 | 4 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-09 | 2 | 12 | 0 | 0 | 0 | 18 |
+| 90d | 2026-08-10 | 2 | 12 | 0 | 0 | 1 | 18 |
+| last180d | 2026-05-12 | 7 | 19 | 0 | 4 | 1 | 33 |
+| 360d | 2025-11-13 | 10 | 22 | 0 | 9 | 3 | 52 |
+| last720d | 2024-11-18 | 25 | 26 | 0 | 33 | 5 | 127 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for intelli-shell lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:18:32Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:13:33Z._
