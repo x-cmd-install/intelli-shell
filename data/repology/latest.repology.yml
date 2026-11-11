@@ -1,4 +1,4 @@
-- repo: arch
+- repo: parabola
   subrepo: extra
   srcname: intelli-shell
   binname: intelli-shell
@@ -9,8 +9,8 @@
   summary: Like IntelliSense, but for shells
   licenses:
     - Apache-2.0
-- repo: arch_testing
-  subrepo: extra-testing
+- repo: arch
+  subrepo: extra
   srcname: intelli-shell
   binname: intelli-shell
   visiblename: intelli-shell
@@ -23,7 +23,7 @@
 - repo: homebrew
   srcname: intelli-shell
   visiblename: intelli-shell
-  version: 3.4.7
+  version: 3.4.8
   origversion: null
   status: newest
   summary: Like IntelliSense, but for shells
@@ -62,7 +62,7 @@
   binname: intelli-shell
   visiblename: intelli-shell
   version: 3.4.5
-  origversion: 3.4.5-1
+  origversion: 3.4.5-2
   status: outdated
   summary: Like IntelliSense, but for shells
   licenses:
@@ -116,20 +116,9 @@
   visiblename: intelli-shell
   version: 3.4.7
   origversion: null
-  status: newest
+  status: outdated
   summary: Like IntelliSense, but for shells
   maintainers:
     - lasantosr@github
-  licenses:
-    - Apache-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: intelli-shell
-  binname: intelli-shell
-  visiblename: intelli-shell
-  version: 3.4.5
-  origversion: 3.4.5-1
-  status: outdated
-  summary: Like IntelliSense, but for shells
   licenses:
     - Apache-2.0
