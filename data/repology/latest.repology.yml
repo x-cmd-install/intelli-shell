@@ -1,14 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: intelli-shell
-  binname: intelli-shell
-  visiblename: intelli-shell
-  version: 3.4.5
-  origversion: 3.4.5-1
-  status: outdated
-  summary: Like IntelliSense, but for shells
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: intelli-shell
@@ -120,5 +109,16 @@
   summary: Like IntelliSense, but for shells
   maintainers:
     - lasantosr@github
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: intelli-shell
+  binname: intelli-shell
+  visiblename: intelli-shell
+  version: 3.4.5
+  origversion: 3.4.5-1
+  status: outdated
+  summary: Like IntelliSense, but for shells
   licenses:
     - Apache-2.0
