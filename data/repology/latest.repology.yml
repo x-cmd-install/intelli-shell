@@ -1,39 +1,3 @@
-- repo: arch
-  subrepo: extra
-  srcname: intelli-shell
-  binname: intelli-shell
-  visiblename: intelli-shell
-  version: 3.4.5
-  origversion: 3.4.5-2
-  status: outdated
-  summary: Like IntelliSense, but for shells
-  licenses:
-    - Apache-2.0
-- repo: homebrew
-  srcname: intelli-shell
-  visiblename: intelli-shell
-  version: 3.4.8
-  origversion: null
-  status: newest
-  summary: Like IntelliSense, but for shells
-- repo: homebrew
-  srcname: intelli-shell
-  visiblename: intelli-shell
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Like IntelliSense, but for shells
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: intelli-shell
-  binname: intelli-shell
-  visiblename: intelli-shell
-  version: 3.4.5
-  origversion: 3.4.5-1
-  status: outdated
-  summary: Like IntelliSense, but for shells
-  licenses:
-    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: intelli-shell
@@ -89,6 +53,42 @@
     - lasantosr@github
   licenses:
     - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: intelli-shell
+  binname: intelli-shell
+  visiblename: intelli-shell
+  version: 3.4.5
+  origversion: 3.4.5-2
+  status: outdated
+  summary: Like IntelliSense, but for shells
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: intelli-shell
+  visiblename: intelli-shell
+  version: 3.4.8
+  origversion: null
+  status: newest
+  summary: Like IntelliSense, but for shells
+- repo: homebrew
+  srcname: intelli-shell
+  visiblename: intelli-shell
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Like IntelliSense, but for shells
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: intelli-shell
+  binname: intelli-shell
+  visiblename: intelli-shell
+  version: 3.4.5
+  origversion: 3.4.5-1
+  status: outdated
+  summary: Like IntelliSense, but for shells
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: intelli-shell
   visiblename: intelli-shell
@@ -103,9 +103,9 @@
 - repo: nix_unstable
   srcname: intelli-shell
   visiblename: intelli-shell
-  version: 3.4.7
+  version: 3.4.8
   origversion: null
-  status: outdated
+  status: newest
   summary: Like IntelliSense, but for shells
   maintainers:
     - lasantosr@github
