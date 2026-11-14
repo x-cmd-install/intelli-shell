@@ -38,7 +38,7 @@ x install intelli-shell
 
 ## 流行度
 
-- **Star**: 1,306 · **Fork**: 25 · **开放 issue**: 51 · **贡献者**: 9
+- **Star**: 1,307 · **Fork**: 25 · **开放 issue**: 51 · **贡献者**: 9
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install intelli-shell
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 4 | 0 | 1 | 0 | 5 |
-| last60d | 2026-09-14 | 3 | 13 | 0 | 1 | 0 | 20 |
-| 90d | 2026-08-15 | 3 | 13 | 0 | 1 | 1 | 20 |
-| last180d | 2026-05-17 | 7 | 18 | 0 | 5 | 1 | 35 |
-| 360d | 2025-11-18 | 11 | 23 | 0 | 9 | 3 | 54 |
-| last720d | 2024-11-23 | 26 | 27 | 0 | 34 | 5 | 129 |
+| 30d | 2026-10-15 | 2 | 3 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-15 | 3 | 13 | 0 | 1 | 0 | 20 |
+| 90d | 2026-08-16 | 3 | 13 | 0 | 1 | 1 | 20 |
+| last180d | 2026-05-18 | 7 | 17 | 0 | 5 | 1 | 35 |
+| 360d | 2025-11-19 | 11 | 23 | 0 | 9 | 3 | 54 |
+| last720d | 2024-11-24 | 26 | 27 | 0 | 34 | 5 | 129 |
 
 ## Release 资产
 
@@ -70,11 +70,11 @@ x install intelli-shell
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/intelli-shell) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/intelli-shell) 上共有 **12** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `3.4.5` | ⚠️ outdated |
+| Arch | `3.4.8` | ✅ latest |
 | Homebrew | `3.4.8` | ✅ latest |
 | Nix unstable | `3.4.8` | ✅ latest |
 
@@ -87,4 +87,4 @@ intelli-shell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T07:02:44Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T06:46:16Z._
