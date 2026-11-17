@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: intelli-shell
+  visiblename: intelli-shell
+  version: 0.2.7
+  origversion: null
+  status: outdated
+  summary: Like IntelliSense, but for shells
+  maintainers:
+    - iogamastercode+nixpkgs@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: intelli-shell
@@ -39,9 +50,9 @@
   srcname: intelli-shell
   binname: intelli-shell
   visiblename: intelli-shell
-  version: 3.4.5
-  origversion: 3.4.5-1
-  status: outdated
+  version: 3.4.8
+  origversion: 3.4.8-1
+  status: newest
   summary: Like IntelliSense, but for shells
   licenses:
     - Apache-2.0
@@ -57,17 +68,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_24_11
-  srcname: intelli-shell
-  visiblename: intelli-shell
-  version: 0.2.7
-  origversion: null
-  status: outdated
-  summary: Like IntelliSense, but for shells
-  maintainers:
-    - iogamastercode+nixpkgs@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
   srcname: intelli-shell
   visiblename: intelli-shell
   version: 0.2.7
