@@ -38,7 +38,7 @@ Total: **23,900** lines of code across **106** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,311 · **Forks**: 25 · **Open issues**: 51 · **Contributors**: 9
+- **Stars**: 1,311 · **Forks**: 24 · **Open issues**: 51 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **23,900** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 3 | 0 | 1 | 0 | 5 |
-| last60d | 2026-09-22 | 3 | 13 | 0 | 1 | 0 | 20 |
-| 90d | 2026-08-23 | 3 | 13 | 0 | 1 | 0 | 20 |
-| last180d | 2026-05-25 | 7 | 16 | 0 | 5 | 1 | 34 |
-| 360d | 2025-11-26 | 9 | 23 | 0 | 9 | 3 | 50 |
-| last720d | 2024-12-01 | 26 | 27 | 0 | 34 | 5 | 129 |
+| 30d | 2026-10-23 | 2 | 3 | 0 | 1 | 0 | 3 |
+| last60d | 2026-09-23 | 3 | 13 | 0 | 1 | 0 | 20 |
+| 90d | 2026-08-24 | 3 | 13 | 0 | 1 | 0 | 20 |
+| last180d | 2026-05-26 | 7 | 16 | 0 | 5 | 1 | 32 |
+| 360d | 2025-11-27 | 9 | 23 | 0 | 9 | 3 | 50 |
+| last720d | 2024-12-02 | 26 | 27 | 0 | 34 | 5 | 129 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for intelli-shell lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:21:00Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:00:20Z._
