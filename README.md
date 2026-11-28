@@ -48,12 +48,12 @@ Total: **23,900** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 2 | 0 | 1 | 0 | 3 |
-| last60d | 2026-09-28 | 3 | 6 | 0 | 1 | 0 | 13 |
-| 90d | 2026-08-29 | 3 | 6 | 0 | 1 | 0 | 13 |
-| last180d | 2026-05-31 | 7 | 8 | 0 | 5 | 1 | 25 |
-| 360d | 2025-12-02 | 9 | 16 | 0 | 7 | 3 | 43 |
-| last720d | 2024-12-07 | 26 | 20 | 0 | 34 | 5 | 129 |
+| 30d | 2026-10-29 | 1 | 2 | 0 | 1 | 0 | 3 |
+| last60d | 2026-09-29 | 3 | 6 | 0 | 1 | 0 | 13 |
+| 90d | 2026-08-30 | 3 | 6 | 0 | 1 | 0 | 13 |
+| last180d | 2026-06-01 | 7 | 8 | 0 | 5 | 1 | 25 |
+| 360d | 2025-12-03 | 9 | 16 | 0 | 7 | 3 | 43 |
+| last720d | 2024-12-08 | 26 | 20 | 0 | 34 | 5 | 129 |
 
 ## Release assets
 
@@ -68,6 +68,16 @@ Total: **23,900** lines of code across **106** files in the top 5 languages.
 | [intelli-shell-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.8/intelli-shell-x86_64-unknown-linux-gnu.tar.gz) | 10.9 MiB | `native/linux/x64/glibc` |
 | [intelli-shell-x86_64-unknown-linux-musl.tar.gz](https://github.com/lasantosr/intelli-shell/releases/download/v3.4.8/intelli-shell-x86_64-unknown-linux-musl.tar.gz) | 11.0 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/intelli-shell). **6** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `3.4.8` | ✅ latest |
+| Homebrew | `3.4.8` | ✅ latest |
+| Nix unstable | `3.4.8` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for intelli-shell lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `intelli-shell` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +87,4 @@ Install metadata for intelli-shell lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:51:22Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:13:31Z._
